@@ -86,7 +86,7 @@ The project was built with help of these technologies:
 #### Attendance:
 - student: Student,
 - course: Course,
- createdAt: Date
+- createdAt: Date
 
 ## Examples
 Application provides various endpoints handling GET and POST queries.
